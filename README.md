@@ -9,23 +9,23 @@
 - *Marketing Tools*: Business Objects, Google Analytics, Azure Power BI, IMS Appature Nexus, Bronto, Marketo, Salesforce, Salesforce Marketing Cloud, Veeva, Eloqua, Campaign Monitor, Constant Contact
 
 ## CAREER SUMMARY
-*2013 April – Present*
-**DIGITAS HEALTH**
-PHILADELPHIA, PA
+*2013 April – Present* <br />
+**DIGITAS HEALTH** <br />
+PHILADELPHIA, PA <br />
 *Director, Marketing Operations (Promotion, July 2015)*
 - Introduced, developed and deployed agency-wide initiative into interactive emails; including UX/UI design, data capture and contact mapping, segmentation and reporting.
 - Provide direction for the strategic tasks associated with the execution of cross-channel CRM campaigns for HCPs/patient/caregiver segments, with an emphasis on email and SMS.
 - Responsible for CRM reporting including acquisition, pipeline, segmentation, email/campaign results, engagement algorithms and database health.
 - Design and manage the implementation of an agency-wide open source coding framework built to accelerate build & QA of HTML emails to increase the velocity of content generation.
 
-*Manager, Marketing Operations*
+*Manager, Marketing Operations* <br />
 - Manage and operate the client’s enterprise level CRM solution consisting of five brands, 1MM+ contacts, 100+ unique emails designs and sending thresholds of 20MM sends per year. 
 - Accountable for all aspects of data management, campaign execution, process design, and QC for website, mobile app, and CRM related projects.
 - Manage and collaborate with IT vendors to perform various database-related execution functions to maximize usability for marketing efforts.
 
-*2008 – 2013 April*
-**ELSEVIER**
-**PHILADELPHIA, PA**
+*2008 – 2013 April* <br />
+**ELSEVIER** <br />
+**PHILADELPHIA, PA** <br />
 *Customer Marketing Manager (Promotion, September 2012)*
 - Developed, budgeted, and executed life-cycle marketing strategies surrounding the medical education market; leveraging unique milestones for both student and faculty segments to maximize revenue. 
 
@@ -35,11 +35,11 @@ PHILADELPHIA, PA
 *Direct Marketing Analyst*
 - Constructed user-friendly direct marketing results database, providing marketing teams the ability to quickly interpret best performing audience segments, in order to identify lucrative opportunities for redeployment.
 
-## EDUCATION
-2005 – 2008
-**TEMPLE UNIVERSITY**
-**PHILADELPHIA, PA**
+## EDUCATION <br />
+2005 – 2008 <br />
+**TEMPLE UNIVERSITY** <br />
+**PHILADELPHIA, PA** <br />
 *Bachelor of Business Administration, Graduation: Jan 2008*
 *Major: Marketing*
 
-[LinkedIn] (www.linkedin.com/in/sean-munley)
+[LinkedIn](www.linkedin.com/in/sean-munley)
