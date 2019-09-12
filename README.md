@@ -12,8 +12,7 @@ Contact:
 - *Marketing Tools*: Business Objects, Google Analytics, Azure Power BI, IMS Appature Nexus, Bronto, Marketo, Salesforce, Salesforce Marketing Cloud, Veeva, Eloqua, Campaign Monitor, Constant Contact
 
 ## CAREER SUMMARY
-### DIGITAS HEALTH 
-*2013 April – Present* <br />
+### DIGITAS HEALTH, *2013 April – Present* <br />
 *Director, Marketing Operations (Promotion, July 2015)*
 - Introduced, developed and deployed agency-wide initiative into interactive emails; including UX/UI design, data capture and contact mapping, segmentation and reporting.
 - Provide direction for the strategic tasks associated with the execution of cross-channel CRM campaigns for HCPs/patient/caregiver segments, with an emphasis on email and SMS.
@@ -25,8 +24,7 @@ Contact:
 - Accountable for all aspects of data management, campaign execution, process design, and QC for website, mobile app, and CRM related projects.
 - Manage and collaborate with IT vendors to perform various database-related execution functions to maximize usability for marketing efforts.
 
-### ELSEVIER
-*2008 – 2013 April* <br />
+### ELSEVIER, *2008 – 2013 April* <br />
 *Customer Marketing Manager (Promotion, September 2012)*
 - Developed, budgeted, and executed life-cycle marketing strategies surrounding the medical education market; leveraging unique milestones for both student and faculty segments to maximize revenue. 
 
