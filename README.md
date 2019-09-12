@@ -2,7 +2,7 @@
 # SEAN MUNLEY
 Contact:
 - smunley13@gmail.com
-- [LinkedIn](www.linkedin.com/in/sean-munley)
+- [LinkedIn](http://www.linkedin.com/in/sean-munley)
 
 ## PROFILE
 >**Digital marketing strategist** *and developer*, with a proven track record for optimizing marketing performance and scalability through improvements to devops, data management, testing, performance measurement, reporting insights and programing.
