@@ -2,14 +2,13 @@
 # SEAN MUNLEY
 
 ## PROFILE
-Digital marketing ***strategist and developer***, with a proven track record for optimizing marketing performance and scalability through improvements to devops, data management, testing, performance measurement and reporting insights.
+>**Digital marketing strategist** *and developer*, with a proven track record for optimizing marketing performance and scalability through improvements to devops, data management, testing, performance measurement, reporting insights and programing.
 
-- Certification: University of Penn LPS Full Stack Coding Boot Camp - July 2019
-- Dev Proficiencies: HTML, CSS, JavaScript, jQuery, Handlebars, Firebase, MySQL, AJAX, MongoDB, Express, React, Node
-- Marketing Tools: Business Objects, Google Analytics, Azure Power BI, IMS Appature Nexus, Bronto, Marketo, Salesforce, Salesforce Marketing Cloud, Veeva, Eloqua, Campaign Monitor, Constant Contact
+- *Certification*: University of Penn LPS Full Stack Coding Boot Camp - July 2019
+- *Dev Proficiencies*: HTML, CSS, JavaScript, jQuery, Handlebars, Firebase, MySQL, AJAX, MongoDB, Express, React, Node
+- *Marketing Tools*: Business Objects, Google Analytics, Azure Power BI, IMS Appature Nexus, Bronto, Marketo, Salesforce, Salesforce Marketing Cloud, Veeva, Eloqua, Campaign Monitor, Constant Contact
 
 ## CAREER SUMMARY
-
 *2013 April – Present*	
 **DIGITAS HEALTH** 							                
 PHILADELPHIA, PA
