@@ -1,7 +1,7 @@
 
 # SEAN MUNLEY
 Contact:
-- smunley13@gmail.com
+- [smunley13@gmail.com](mailto:smunley13@gmail.com?subject=Wow,%20very%20impressive%20resume!)
 - [LinkedIn](http://www.linkedin.com/in/sean-munley)
 
 ## PROFILE
