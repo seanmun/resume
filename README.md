@@ -1,16 +1,14 @@
-1217 Spring Garden Street • Philadelphia, PA 19123
-215.593.7326 • smunley13@gmail.com • [LinkedIn] (www.linkedin.com/in/sean-munley)
 
-#SEAN MUNLEY#
+# SEAN MUNLEY
 
-##PROFILE##
-Digital marketing strategist and developer, with a proven track record for optimizing marketing performance and scalability through improvements to devops, data management, testing, performance measurement and reporting insights.
+## PROFILE
+Digital marketing ***strategist and developer***, with a proven track record for optimizing marketing performance and scalability through improvements to devops, data management, testing, performance measurement and reporting insights.
 
 - Certification: University of Penn LPS Full Stack Coding Boot Camp - July 2019
 - Dev Proficiencies: HTML, CSS, JavaScript, jQuery, Handlebars, Firebase, MySQL, AJAX, MongoDB, Express, React, Node
 - Marketing Tools: Business Objects, Google Analytics, Azure Power BI, IMS Appature Nexus, Bronto, Marketo, Salesforce, Salesforce Marketing Cloud, Veeva, Eloqua, Campaign Monitor, Constant Contact
 
-##CAREER SUMMARY##
+## CAREER SUMMARY
 
 *2013 April – Present*	
 **DIGITAS HEALTH** 							                
@@ -38,9 +36,11 @@ PHILADELPHIA, PA
 *Direct Marketing Analyst*
 - Constructed user-friendly direct marketing results database, providing marketing teams the ability to quickly interpret best performing audience segments, in order to identify lucrative opportunities for redeployment.
 
-##EDUCATION
+## EDUCATION
 2005 – 2008		
 **TEMPLE UNIVERSITY**							           	
 **PHILADELPHIA, PA**
 *Bachelor of Business Administration, Graduation: Jan 2008*
 *Major: Marketing*
+
+LinkedIn] (www.linkedin.com/in/sean-munley)
