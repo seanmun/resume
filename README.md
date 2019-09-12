@@ -34,10 +34,10 @@
 - Constructed user-friendly direct marketing results database, providing marketing teams the ability to quickly interpret best performing audience segments, in order to identify lucrative opportunities for redeployment.
 
 ## EDUCATION <br />
-2005 – 2008 <br />
 **TEMPLE UNIVERSITY** <br />
 **PHILADELPHIA, PA** <br />
-*Bachelor of Business Administration, Graduation: Jan 2008*
+*Bachelor of Business Administration,<br />
+Graduation: Jan 2008*
 *Major: Marketing*
 
 [LinkedIn](www.linkedin.com/in/sean-munley)
