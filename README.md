@@ -1,5 +1,7 @@
 
 # SEAN MUNLEY
+[LinkedIn](www.linkedin.com/in/sean-munley)
+smunley13@gmail.com
 
 ## PROFILE
 >**Digital marketing strategist** *and developer*, with a proven track record for optimizing marketing performance and scalability through improvements to devops, data management, testing, performance measurement, reporting insights and programing.
@@ -35,9 +37,8 @@
 
 ## EDUCATION <br />
 **TEMPLE UNIVERSITY** <br />
-**PHILADELPHIA, PA** <br />
-*Bachelor of Business Administration,<br />
-Graduation: Jan 2008*
+*Bachelor of Business Administration<br />
+Graduation: Jan 2008*<br />
 *Major: Marketing*
 
 [LinkedIn](www.linkedin.com/in/sean-munley)
