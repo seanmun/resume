@@ -11,7 +11,6 @@
 ## CAREER SUMMARY
 *2013 April – Present* <br />
 **DIGITAS HEALTH** <br />
-PHILADELPHIA, PA <br />
 *Director, Marketing Operations (Promotion, July 2015)*
 - Introduced, developed and deployed agency-wide initiative into interactive emails; including UX/UI design, data capture and contact mapping, segmentation and reporting.
 - Provide direction for the strategic tasks associated with the execution of cross-channel CRM campaigns for HCPs/patient/caregiver segments, with an emphasis on email and SMS.
@@ -25,7 +24,6 @@ PHILADELPHIA, PA <br />
 
 *2008 – 2013 April* <br />
 **ELSEVIER** <br />
-**PHILADELPHIA, PA** <br />
 *Customer Marketing Manager (Promotion, September 2012)*
 - Developed, budgeted, and executed life-cycle marketing strategies surrounding the medical education market; leveraging unique milestones for both student and faculty segments to maximize revenue. 
 
