@@ -13,7 +13,7 @@ Contact:
 
 ## CAREER SUMMARY
 *2013 April – Present* <br />
-**DIGITAS HEALTH** <br />
+### DIGITAS HEALTH <br />
 *Director, Marketing Operations (Promotion, July 2015)*
 - Introduced, developed and deployed agency-wide initiative into interactive emails; including UX/UI design, data capture and contact mapping, segmentation and reporting.
 - Provide direction for the strategic tasks associated with the execution of cross-channel CRM campaigns for HCPs/patient/caregiver segments, with an emphasis on email and SMS.
